@@ -1,0 +1,2 @@
+# noobHut
+my learning record
